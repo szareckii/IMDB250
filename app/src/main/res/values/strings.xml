@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMDB250</string>
+    <string name="login_user">movie title</string>
+    <string name="repositories">Actors:</string>
+    <string name="repository">Actor:</string>
+    <string name="number_of_forks">As character: </string>
+    <string name="asCharacter" translatable="false"> </string>
+    <string name="name_repository">Actor:</string>
+    <string name="user">Title:</string>
+    <string name="todo">TODO</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMDB250</string>
+    <string name="login_user">Название фильма</string>
+    <string name="repositories">Актеры:</string>
+    <string name="repository">Актер:</string>
+    <string name="number_of_forks">В роли: </string>
+    <string name="name_repository">Актер</string>
+    <string name="user">Название: </string>
+    <string name="todo">TODO</string>
+</resources>
