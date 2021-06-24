@@ -5,6 +5,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.LinearLayout
 import androidx.core.content.res.ResourcesCompat
+import androidx.core.os.bundleOf
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -27,6 +28,7 @@ class MovieFragment : MvpAppCompatFragment(), MovieView, BackButtonListener {
             arguments = Bundle().apply {
                 putParcelable(MOVIE_ARG, movie)
             }
+//             arguments = bundleOf(MOVIE_ARG to movie)
         }
     }
 
